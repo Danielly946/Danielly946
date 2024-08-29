@@ -10,4 +10,4 @@ Meu nome é Danielly
 
 00001115275549sp@al.educacao.sp.gov.br
 
-![](https://tenor.com/pt-BR/view/obitoszn-gif-23334442)
+![]()
